@@ -1,0 +1,4 @@
+com\test\java\service\CompService.class
+com\test\java\controller\CompanyController.class
+com\test\java\bean\Company.class
+com\test\java\service\CompServiceImpl.class
